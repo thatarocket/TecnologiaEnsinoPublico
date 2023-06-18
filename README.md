@@ -2,12 +2,12 @@
 
 Trabalho realizado na matéria de governo aberto, com a professora Gisele Craveiro.
 
-Integrantes:
-**Autores: 
-  [Aline Sayuri Murai](https://github.com/alinemurai)
-  [Thais de Souza Rodrigues](https://github.com/thatarocket) 
-  [Melissa Akie Inui](https://github.com/mee-akie)
-  [Daniella Cisterna Melo](https://github.com/daniella-melo)
-  [Daniel Santos](https://github.com/dan-santos)
-  [Igor Augustuo](https://github.com/IgorAugst)
+**Integrantes**
+
+  [Aline Sayuri Murai](https://github.com/alinemurai) </p>
+  [Thais de Souza Rodrigues](https://github.com/thatarocket)  </p>
+  [Melissa Akie Inui](https://github.com/mee-akie) </p>
+  [Daniella Cisterna Melo](https://github.com/daniella-melo) </p>
+  [Daniel Santos](https://github.com/dan-santos) </p> </p>
+  [Igor Augustuo](https://github.com/IgorAugst) </p>
   
